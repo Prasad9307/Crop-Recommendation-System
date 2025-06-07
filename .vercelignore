@@ -1,0 +1,15 @@
+.git
+.gitignore
+__pycache__
+*.pyc
+data/
+*.csv
+*.log
+venv/
+.env
+*.pkl
+model/
+tests/
+*.ipynb
+*.md
+!README.md 

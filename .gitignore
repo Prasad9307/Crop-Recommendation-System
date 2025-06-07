@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+
+# Model files (uncomment if you want to exclude them)
+# model/*.pkl
+# model/*.json
+
+# Logs
+*.log
+
+# Local development
+.env
+.env.local 
